@@ -1,0 +1,4 @@
+```
+sudo apt-get install python-pip libglib2.0-dev
+sudo pip install bluepy
+```
