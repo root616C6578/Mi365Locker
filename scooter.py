@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from bluepy import btle
 from bluepy.btle import Scanner, DefaultDelegate
 from bluepy.btle import BTLEDisconnectError
